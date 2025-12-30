@@ -1,0 +1,3 @@
+npx create-next-app@latest koromons-v2 --typescript --tailwind --eslint
+cd koromons-v2
+npm install framer-motion lucide-react clsx tailwind-merge
